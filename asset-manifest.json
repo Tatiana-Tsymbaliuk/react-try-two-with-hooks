@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-try-two-with-hooks/static/css/main.7acaea2f.css",
+    "main.js": "/react-try-two-with-hooks/static/js/main.07d3183d.js",
+    "index.html": "/react-try-two-with-hooks/index.html",
+    "main.7acaea2f.css.map": "/react-try-two-with-hooks/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/react-try-two-with-hooks/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
